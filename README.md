@@ -62,12 +62,15 @@ developing your own process.
 
 - Add a new toy when the toy form is submitted
 
-  - How I debugged:
+  - How I debugged: 
+  Error uninitialized constant Toys - typo
 
 - Update the number of likes for a toy
 
   - How I debugged:
+  
+  Error: Unexepected end of JSON input / PUMA console unpermitted parameter :id. Should allow ID so we can find the route. Should also render JSON as a return
 
 - Donate a toy to Goodwill (and delete it from our database)
 
-  - How I debugged:
+  - How I debugged: ADded route
